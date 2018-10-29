@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name KiCad_HB100demo-rescue)(type Legacy)(uri ${KIPRJMOD}/KiCad_HB100demo-rescue.lib)(options "")(descr ""))
+)

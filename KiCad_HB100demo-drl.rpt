@@ -1,0 +1,23 @@
+Drill report for D:/Workspace_KiCad/projects/KiCad_HB100demo/KiCad_HB100demo.kicad_pcb
+Created on 22/10/2018 22:08:21
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'KiCad_HB100demo-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (54 holes)
+    T2  1.00mm  0.039"  (14 holes)
+
+    Total plated holes count 68
+
+
+Drill file 'KiCad_HB100demo-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
