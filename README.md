@@ -7,4 +7,4 @@ Application circuit can be found in HB100_Microwave_Sensor_Application_Note.pdf.
 
 And it also was verified by me, as you can see in the jpg files. 
 
-There is one problem with my board. The retangular cutoff does not fit with HB100. This board functions well, but is not so pretty.
+There is one tiny problem with my board. The retangular cutoff does not fit with HB100. This board functions well, but is not so pretty. And the distance has not been tested yet.
